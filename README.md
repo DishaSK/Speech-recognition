@@ -1,1 +1,2 @@
 # Speech-recognition
+Speech recognition is a machine's ability to listen to spoken words and identify them. Hence this implementation is done using Python programming language by installing SpeechRecognition using pip command in the terminal. Importing the pyaudio library, speech can be converted to text. It is the ability of the machine to identify the words being spoken, an application of machine learning.
